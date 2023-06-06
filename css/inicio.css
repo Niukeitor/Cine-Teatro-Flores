@@ -1,0 +1,27 @@
+.TextBlockHeader{
+    font-family:'Microsoft Sans Serif';
+    font-size:30.0pt;
+    font-weight:bold;
+    font-style:normal; 
+    color:#0F3E7D;
+
+   
+}
+.container{
+    background-color: wheat;
+    text-align:center; 
+
+}
+
+  
+.select {
+    font-size: 20px;
+    height: 20px;
+    padding: 5px;
+    width: 10%;
+    display: block;
+  }
+
+  .format{
+    border-radius: 5px;
+  }
